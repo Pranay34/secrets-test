@@ -1,0 +1,7 @@
+ami= "ami-03f8756d29f0b5f21" 
+region = "us-west-2"
+vpc_id = "vpc-00e5dae10acc22ff0"
+instance_type = "t2.micro"
+subnet = "subnet-05797d2921a27592d"
+key ="COP_TEAM"
+secgpname = "ec-secgp"
